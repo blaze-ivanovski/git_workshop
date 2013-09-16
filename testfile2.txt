@@ -1,11 +1,8 @@
 testfile2 testfile2
 master branch
 new line
-
 new line
 new line
-
-
 new line
-
 new line
+blazeee
